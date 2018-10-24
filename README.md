@@ -1,4 +1,4 @@
-# FootBallAppsSubmission1
+# FootBall Apps KADE
 Aplikasi submission 1 Dicoding KADE
 
 Menampilkan daftar klub bola dari Array ke Anko Layout.
